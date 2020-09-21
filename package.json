@@ -1,0 +1,27 @@
+{
+  "name": "see-dom",
+  "version": "1.0.0",
+  "description": "view the state of your DOM in the browser during a headless test run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dperrymorrow/see-dom.git"
+  },
+  "keywords": [
+    "test",
+    "DOM"
+  ],
+  "author": "David Morrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dperrymorrow/see-dom/issues"
+  },
+  "homepage": "https://github.com/dperrymorrow/see-dom#readme",
+  "dependencies": {
+    "open": "^7.2.1",
+    "tmp": "^0.2.1"
+  }
+}
